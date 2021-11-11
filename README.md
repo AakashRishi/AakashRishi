@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AakashRishi
 - 👀 I’m interested in developing CRYPTOGRAPHIC CODING
-- 🌱 I’m currently learning PyTHON
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on WORKING WITH TASKS AND PROJECTS
 - 📫 How to reach me INSTAGRAM:@a_lovable_boy
      NOT ALL WHO WANDER ARE LOST!
